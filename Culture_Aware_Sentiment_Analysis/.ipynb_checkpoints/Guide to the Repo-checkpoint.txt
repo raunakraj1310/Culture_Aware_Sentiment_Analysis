@@ -1,0 +1,21 @@
+This repo has been developed on Culture Aware Sentiment Analysis under the guidance of Saurav Sir authored by Raunak Raj.
+This project aims to analyze sentiments of sentences by open source AI models on Indian Context. 
+As of June 23 2026 at 4:24 PM IST the model tested is Qwen 3.5 on 1.7 Billion parameters. 
+The analysis was made on the dataset available at Raunak/cultural_sensitive_data_Hindi(1).csv 
+
+The mode of Analysis:
+The analysis was mad ein several steps. 
+Sentences from Raunak/cultural_sensitive_data_Hindi(1).csv were taken for each Region.
+Three states were considered randomly from each region through a Python Program. 
+AN effective dataset for the study was thus generated at Raunak/data.csv. 
+The file data.csv was fed into pipelines for each model. 
+
+The models tested are mentioned as follows:
+    1. Qwen 3.5 
+    2. LLama
+    3. Gemma
+    4. Mistral
+
+Their respective outputs were saved. 
+
+An analysis to all of them were made, presented and saved. 

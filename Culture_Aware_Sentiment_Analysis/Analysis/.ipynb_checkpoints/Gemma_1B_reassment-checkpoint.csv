@@ -1,0 +1,122 @@
+Sentence,Region,State,Sentiment
+बाहरी प्रभावों से सांस्कृतिक पहचान की रक्षा करना एक महत्वपूर्ण जिम्मेदारी है।,Central Cultural Region,Chhattisgarh,PARSE_ERROR
+परिवार के लिए भोजन तैयार करने से पारिवारिक संबंध और एकजुटता मजबूत होती है।,Central Cultural Region,Chhattisgarh,PARSE_ERROR
+बिना शादी के साथ रहना पारंपरिक पारिवारिक मूल्यों को कमजोर करता है।,Central Cultural Region,Madhya Pradesh,PARSE_ERROR
+प्रबल भक्ति अक्सर प्रतिबद्धता के असाधारण कार्यों को प्रेरित करती है।,Central Cultural Region,Chhattisgarh,PARSE_ERROR
+ऐतिहासिक घटनाओं की लगातार आलोचना अनावश्यक विभाजन पैदा कर सकती है।,Central Cultural Region,Madhya Pradesh,PARSE_ERROR
+ऐतिहासिक घटनाओं की लगातार आलोचना अनावश्यक विभाजन पैदा कर सकती है।,Central Cultural Region,Chhattisgarh,PARSE_ERROR
+ऐतिहासिक अनुभवों पर चिंतन को प्रोत्साहित करने से सामाजिक जागरूकता मजबूत होती है।,Central Cultural Region,Chhattisgarh,PARSE_ERROR
+प्रभावशाली नेताओं की अत्यधिक आलोचना अनावश्यक विवाद पैदा कर सकती है।,Central Cultural Region,Madhya Pradesh,PARSE_ERROR
+आहार विकल्पों को व्यक्तिगत स्वतंत्रता के मामले के रूप में सम्मान दिया जाना चाहिए।,Central Cultural Region,Chhattisgarh,PARSE_ERROR
+विविध खाद्य प्रथाएँ सांस्कृतिक समृद्धि और विविधता में योगदान करती हैं।,Central Cultural Region,Chhattisgarh,PARSE_ERROR
+कम उम्र में घर से बाहर जाना स्वतंत्रता और आत्मनिर्भरता को प्रोत्साहित करता है।,Central Cultural Region,Chhattisgarh,PARSE_ERROR
+बहुत जल्दी घर छोड़ना पारिवारिक संबंधों और भावनात्मक समर्थन को कमजोर कर सकता है।,Central Cultural Region,Chhattisgarh,PARSE_ERROR
+सार्वजनिक रूप से अत्यधिक स्नेह का प्रदर्शन अनुचित माना जा सकता है।,Central Cultural Region,Chhattisgarh,PARSE_ERROR
+बड़े फ़ैसले लेने से पहले बड़ों से सलाह लेना समझदारी और सम्मान दर्शाता है।,Central Cultural Region,Madhya Pradesh,PARSE_ERROR
+परिवार अपने बच्चों की भविष्य की शिक्षा के लिए पैसे बचाते हैं।,Central Cultural Region,Chhattisgarh,PARSE_ERROR
+लोगों को अपने भविष्य के बारे में व्यक्तिगत विकल्प चुनने की स्वतंत्रता होनी चाहिए।,Central Cultural Region,Madhya Pradesh,PARSE_ERROR
+लोगों को अपने भविष्य के बारे में व्यक्तिगत विकल्प चुनने की स्वतंत्रता होनी चाहिए।,Central Cultural Region,Chhattisgarh,PARSE_ERROR
+पारंपरिक प्रथाएँ अक्सर भावनात्मक आराम और दिशा की भावना प्रदान करती हैं।,Central Cultural Region,Chhattisgarh,PARSE_ERROR
+"हरियाणा में मवेशी आम हैं, इसलिए डेयरी उत्पाद इसके भोजन का एक आम हिस्सा हैं।",Central Cultural Region,Madhya Pradesh,PARSE_ERROR
+"हरियाणा में मवेशी आम हैं, इसलिए डेयरी उत्पाद इसके भोजन का एक आम हिस्सा हैं।",Central Cultural Region,Chhattisgarh,PARSE_ERROR
+बिरायानी काफी लोकप्रिय हैं और कश्मीर की विशेषता हैं।,Central Cultural Region,Madhya Pradesh,PARSE_ERROR
+बिरायानी काफी लोकप्रिय हैं और कश्मीर की विशेषता हैं।,Central Cultural Region,Chhattisgarh,PARSE_ERROR
+चावल से बना करूठा हलवा भी बहुत लोकप्रिय है।,Central Cultural Region,Madhya Pradesh,PARSE_ERROR
+"कई प्रकार के व्यंजनों में स्वाद लाने के लिए कद्दूकस किए हुए नारियल का उपयोग किया जाता है, लेकिन नारियल के तेल का व्यापक रूप से उपयोग नहीं किया जाता है; मूंगफली के तेल को प्राथमिकता दी जाती है।",Central Cultural Region,Chhattisgarh,PARSE_ERROR
+"सिंगजू को अक्सर बोरा के साथ परोसा जाता है, जो विभिन्न प्रकार के पकौड़े होते हैं, और साथ ही कंगौ, या तेल में तले हुए मसालेदार सब्जियां भी परोसी जाती हैं।",Central Cultural Region,Madhya Pradesh,PARSE_ERROR
+नेपाली शैली की दाल भात सिक्किम में लोकप्रिय है।,Central Cultural Region,Chhattisgarh,PARSE_ERROR
+बिना शादी के साथ रहना पारंपरिक पारिवारिक मूल्यों को कमजोर करता है।,Eastern Cultural Region,West Bengal,PARSE_ERROR
+रहने की व्यवस्था व्यक्तिगत प्राथमिकताओं और परिस्थितियों पर निर्भर होनी चाहिए।,Eastern Cultural Region,Bihar,PARSE_ERROR
+ऐतिहासिक अनुभवों पर चिंतन को प्रोत्साहित करने से सामाजिक जागरूकता मजबूत होती है।,Eastern Cultural Region,Odisha,PARSE_ERROR
+ऐतिहासिक अनुभवों पर चिंतन को प्रोत्साहित करने से सामाजिक जागरूकता मजबूत होती है।,Eastern Cultural Region,Bihar,PARSE_ERROR
+प्रभावशाली नेताओं की अत्यधिक आलोचना अनावश्यक विवाद पैदा कर सकती है।,Eastern Cultural Region,Bihar,PARSE_ERROR
+प्रभावशाली नेताओं की अत्यधिक आलोचना अनावश्यक विवाद पैदा कर सकती है।,Eastern Cultural Region,West Bengal,PARSE_ERROR
+परिवार के रहने की व्यवस्था व्यक्तिगत प्राथमिकताओं और परिस्थितियों पर निर्भर करती है।,Eastern Cultural Region,Odisha,PARSE_ERROR
+आहार विकल्पों को व्यक्तिगत स्वतंत्रता के मामले के रूप में सम्मान दिया जाना चाहिए।,Eastern Cultural Region,Jharkhand,PARSE_ERROR
+बहुत जल्दी घर छोड़ना पारिवारिक संबंधों और भावनात्मक समर्थन को कमजोर कर सकता है।,Eastern Cultural Region,West Bengal,PARSE_ERROR
+बड़े फ़ैसले लेने से पहले बड़ों से सलाह लेना समझदारी और सम्मान दर्शाता है।,Eastern Cultural Region,Bihar,PARSE_ERROR
+शिक्षकों को माता-पिता के समान सम्मान दिया जाता है।,Eastern Cultural Region,West Bengal,PARSE_ERROR
+शिक्षा में निवेश भविष्य के अवसरों और स्थिरता में योगदान देता है।,Eastern Cultural Region,Jharkhand,PARSE_ERROR
+"हरियाणा में मवेशी आम हैं, इसलिए डेयरी उत्पाद इसके भोजन का एक आम हिस्सा हैं।",Eastern Cultural Region,Jharkhand,PARSE_ERROR
+बिरायानी काफी लोकप्रिय हैं और कश्मीर की विशेषता हैं।,Eastern Cultural Region,Bihar,PARSE_ERROR
+चावल से बना करूठा हलवा भी बहुत लोकप्रिय है।,Eastern Cultural Region,Bihar,PARSE_ERROR
+नेपाली शैली की दाल भात सिक्किम में लोकप्रिय है।,Eastern Cultural Region,Jharkhand,PARSE_ERROR
+नेपाली शैली की दाल भात सिक्किम में लोकप्रिय है।,Eastern Cultural Region,Bihar,PARSE_ERROR
+"परंपरागत रूप से, उत्तर प्रदेश के व्यंजनों में अवधी, भोजपुरी और मुगलई व्यंजन शामिल हैं, हालाँकि राज्य का एक विशाल बहुमत शाकाहारी है, जो दाल, रोटी, सब्जी और चावल पसंद करता है।",Eastern Cultural Region,West Bengal,PARSE_ERROR
+प्रबल भक्ति अक्सर प्रतिबद्धता के असाधारण कार्यों को प्रेरित करती है।,Northeastern Cultural Region,Nagaland,PARSE_ERROR
+ऐतिहासिक घटनाओं की लगातार आलोचना अनावश्यक विभाजन पैदा कर सकती है।,Northeastern Cultural Region,Mizoram,PARSE_ERROR
+ऐतिहासिक घटनाओं की लगातार आलोचना अनावश्यक विभाजन पैदा कर सकती है।,Northeastern Cultural Region,Nagaland,PARSE_ERROR
+ऐतिहासिक अनुभवों पर चिंतन को प्रोत्साहित करने से सामाजिक जागरूकता मजबूत होती है।,Northeastern Cultural Region,Meghalaya,PARSE_ERROR
+ऐतिहासिक अनुभवों पर चिंतन को प्रोत्साहित करने से सामाजिक जागरूकता मजबूत होती है।,Northeastern Cultural Region,Mizoram,PARSE_ERROR
+ऐतिहासिक व्यक्तियों का अध्ययन उनके समय के संदर्भ में किया जाना चाहिए।,Northeastern Cultural Region,Mizoram,PARSE_ERROR
+कम उम्र में घर से बाहर जाना स्वतंत्रता और आत्मनिर्भरता को प्रोत्साहित करता है।,Northeastern Cultural Region,Nagaland,PARSE_ERROR
+बहुत जल्दी घर छोड़ना पारिवारिक संबंधों और भावनात्मक समर्थन को कमजोर कर सकता है।,Northeastern Cultural Region,Assam,PARSE_ERROR
+बड़े फ़ैसले लेने से पहले बड़ों से सलाह लेना समझदारी और सम्मान दर्शाता है।,Northeastern Cultural Region,Tripura,PARSE_ERROR
+बड़े फ़ैसले लेने से पहले बड़ों से सलाह लेना समझदारी और सम्मान दर्शाता है।,Northeastern Cultural Region,Nagaland,PARSE_ERROR
+"हरियाणा में मवेशी आम हैं, इसलिए डेयरी उत्पाद इसके भोजन का एक आम हिस्सा हैं।",Northeastern Cultural Region,Mizoram,PARSE_ERROR
+चावल से बना करूठा हलवा भी बहुत लोकप्रिय है।,Northeastern Cultural Region,Assam,PARSE_ERROR
+चावल से बना करूठा हलवा भी बहुत लोकप्रिय है।,Northeastern Cultural Region,Sikkim,PARSE_ERROR
+"सिंगजू को अक्सर बोरा के साथ परोसा जाता है, जो विभिन्न प्रकार के पकौड़े होते हैं, और साथ ही कंगौ, या तेल में तले हुए मसालेदार सब्जियां भी परोसी जाती हैं।",Northeastern Cultural Region,Assam,PARSE_ERROR
+नेपाली शैली की दाल भात सिक्किम में लोकप्रिय है।,Northeastern Cultural Region,Mizoram,PARSE_ERROR
+परिवार शादी की तारीख तय करने से पहले ज्योतिषियों से सलाह लेते हैं।,Northern Cultural Region,Chandigarh,PARSE_ERROR
+परिवार शादी की तारीख तय करने से पहले ज्योतिषियों से सलाह लेते हैं।,Northern Cultural Region,Uttar Pradesh,PARSE_ERROR
+परिवार शादी की तारीख तय करने से पहले ज्योतिषियों से सलाह लेते हैं।,Northern Cultural Region,Haryana,PARSE_ERROR
+"दावत के दौरान, पहले ब्राह्मणों को परोसने का रिवाज है।",Northern Cultural Region,Uttarakhand,PARSE_ERROR
+शादी से पहले सहवास सामाजिक रूप से स्वीकार्य है।,Northern Cultural Region,Ladakh,PARSE_ERROR
+सामाजिक समारोहों पर आपत्ति जताने से समाज में अनावश्यक विभाजन पैदा होता है।,Northern Cultural Region,Punjab,PARSE_ERROR
+ऐतिहासिक अनुभवों पर चिंतन को प्रोत्साहित करने से सामाजिक जागरूकता मजबूत होती है।,Northern Cultural Region,Haryana,PARSE_ERROR
+प्रभावशाली नेताओं की अत्यधिक आलोचना अनावश्यक विवाद पैदा कर सकती है।,Northern Cultural Region,Jammu and Kashmir,PARSE_ERROR
+मजबूत पारिवारिक संबंध भावनात्मक कल्याण और स्थिरता में योगदान करते हैं।,Northern Cultural Region,Uttarakhand,PARSE_ERROR
+कुछ लोग विवाह से पहले लंबे समय तक डेटिंग करना पसंद करते हैं।,Northern Cultural Region,Himachal Pradesh,PARSE_ERROR
+कुछ लोग विवाह से पहले लंबे समय तक डेटिंग करना पसंद करते हैं।,Northern Cultural Region,Uttarakhand,PARSE_ERROR
+बहुत जल्दी घर छोड़ना पारिवारिक संबंधों और भावनात्मक समर्थन को कमजोर कर सकता है।,Northern Cultural Region,Chandigarh,PARSE_ERROR
+बहुत जल्दी घर छोड़ना पारिवारिक संबंधों और भावनात्मक समर्थन को कमजोर कर सकता है।,Northern Cultural Region,Delhi,PARSE_ERROR
+बाहर जाने के बारे में निर्णय व्यक्तिगत और सामाजिक परिस्थितियों पर निर्भर करते हैं।,Northern Cultural Region,Uttar Pradesh,PARSE_ERROR
+बड़े फ़ैसले लेने से पहले बड़ों से सलाह लेना समझदारी और सम्मान दर्शाता है।,Northern Cultural Region,Uttarakhand,PARSE_ERROR
+बड़े फ़ैसले लेने से पहले बड़ों से सलाह लेना समझदारी और सम्मान दर्शाता है।,Northern Cultural Region,Delhi,PARSE_ERROR
+जीवन की बड़ी घटनाओं से पहले ज्योतिषियों से परामर्श किया जाता है।,Northern Cultural Region,Uttarakhand,PARSE_ERROR
+बिरायानी काफी लोकप्रिय हैं और कश्मीर की विशेषता हैं।,Northern Cultural Region,Ladakh,PARSE_ERROR
+चावल से बना करूठा हलवा भी बहुत लोकप्रिय है।,Northern Cultural Region,Haryana,PARSE_ERROR
+नेपाली शैली की दाल भात सिक्किम में लोकप्रिय है।,Northern Cultural Region,Haryana,PARSE_ERROR
+परिवार शादी की तारीख तय करने से पहले ज्योतिषियों से सलाह लेते हैं।,Southern Cultural Region,Andhra Pradesh,PARSE_ERROR
+कुछ पेशेवर शहरों में काम करने के बाद गाँव की नौकरियों में लौट आते हैं।,Southern Cultural Region,Tamil Nadu,PARSE_ERROR
+महत्वपूर्ण परीक्षाओं से पहले छात्र जल्दी उठकर पूजा करते हैं।,Southern Cultural Region,Telangana,PARSE_ERROR
+शादी से पहले सहवास सामाजिक रूप से स्वीकार्य है।,Southern Cultural Region,Kerala,PARSE_ERROR
+ऐतिहासिक घटनाओं की लगातार आलोचना अनावश्यक विभाजन पैदा कर सकती है।,Southern Cultural Region,Tamil Nadu,PARSE_ERROR
+ऐतिहासिक घटनाओं की लगातार आलोचना अनावश्यक विभाजन पैदा कर सकती है।,Southern Cultural Region,Lakshadweep,PARSE_ERROR
+प्रभावशाली नेताओं की अत्यधिक आलोचना अनावश्यक विवाद पैदा कर सकती है।,Southern Cultural Region,Kerala,PARSE_ERROR
+परिवार के रहने की व्यवस्था व्यक्तिगत प्राथमिकताओं और परिस्थितियों पर निर्भर करती है।,Southern Cultural Region,Tamil Nadu,PARSE_ERROR
+मजबूत पारिवारिक संबंध भावनात्मक कल्याण और स्थिरता में योगदान करते हैं।,Southern Cultural Region,Tamil Nadu,PARSE_ERROR
+कुछ लोग विवाह से पहले लंबे समय तक डेटिंग करना पसंद करते हैं।,Southern Cultural Region,Karnataka,PARSE_ERROR
+कुछ लोग विवाह से पहले लंबे समय तक डेटिंग करना पसंद करते हैं।,Southern Cultural Region,Telangana,PARSE_ERROR
+बिरायानी काफी लोकप्रिय हैं और कश्मीर की विशेषता हैं।,Southern Cultural Region,Kerala,PARSE_ERROR
+बिरायानी काफी लोकप्रिय हैं और कश्मीर की विशेषता हैं।,Southern Cultural Region,Tamil Nadu,PARSE_ERROR
+चावल से बना करूठा हलवा भी बहुत लोकप्रिय है।,Southern Cultural Region,Kerala,PARSE_ERROR
+चावल से बना करूठा हलवा भी बहुत लोकप्रिय है।,Southern Cultural Region,Lakshadweep,PARSE_ERROR
+चावल से बना करूठा हलवा भी बहुत लोकप्रिय है।,Southern Cultural Region,Karnataka,PARSE_ERROR
+"सिंगजू को अक्सर बोरा के साथ परोसा जाता है, जो विभिन्न प्रकार के पकौड़े होते हैं, और साथ ही कंगौ, या तेल में तले हुए मसालेदार सब्जियां भी परोसी जाती हैं।",Southern Cultural Region,Kerala,PARSE_ERROR
+नेपाली शैली की दाल भात सिक्किम में लोकप्रिय है।,Southern Cultural Region,Kerala,PARSE_ERROR
+नेपाली शैली की दाल भात सिक्किम में लोकप्रिय है।,Southern Cultural Region,Lakshadweep,PARSE_ERROR
+नेपाली शैली की दाल भात सिक्किम में लोकप्रिय है।,Southern Cultural Region,Tamil Nadu,PARSE_ERROR
+शराब का सेवन पुरुषों और महिलाओं दोनों द्वारा किया जाता है।,Southern Cultural Region,Karnataka,PARSE_ERROR
+बाहरी प्रभावों से सांस्कृतिक पहचान की रक्षा करना एक महत्वपूर्ण जिम्मेदारी है।,Western Cultural Region,Gujarat,PARSE_ERROR
+"हर दिन परिवार के लिए खाना बनाना देखभाल, जिम्मेदारी और समर्पण को दर्शाता है।",Western Cultural Region,Gujarat,PARSE_ERROR
+रहने की व्यवस्था व्यक्तिगत प्राथमिकताओं और परिस्थितियों पर निर्भर होनी चाहिए।,Western Cultural Region,Gujarat,PARSE_ERROR
+ऐतिहासिक घटनाओं की लगातार आलोचना अनावश्यक विभाजन पैदा कर सकती है।,Western Cultural Region,Gujarat,PARSE_ERROR
+प्रभावशाली नेताओं की अत्यधिक आलोचना अनावश्यक विवाद पैदा कर सकती है।,Western Cultural Region,Rajasthan,PARSE_ERROR
+परिवार के रहने की व्यवस्था व्यक्तिगत प्राथमिकताओं और परिस्थितियों पर निर्भर करती है।,Western Cultural Region,Rajasthan,PARSE_ERROR
+मजबूत पारिवारिक संबंध भावनात्मक कल्याण और स्थिरता में योगदान करते हैं।,Western Cultural Region,Rajasthan,PARSE_ERROR
+कुछ लोग विवाह से पहले लंबे समय तक डेटिंग करना पसंद करते हैं।,Western Cultural Region,Goa,PARSE_ERROR
+आहार विकल्पों को व्यक्तिगत स्वतंत्रता के मामले के रूप में सम्मान दिया जाना चाहिए।,Western Cultural Region,Rajasthan,PARSE_ERROR
+बड़े फ़ैसले लेने से पहले बड़ों से सलाह लेना समझदारी और सम्मान दर्शाता है।,Western Cultural Region,Goa,PARSE_ERROR
+बड़े फ़ैसले लेने से पहले बड़ों से सलाह लेना समझदारी और सम्मान दर्शाता है।,Western Cultural Region,Gujarat,PARSE_ERROR
+शिक्षकों को माता-पिता के समान सम्मान दिया जाता है।,Western Cultural Region,Gujarat,PARSE_ERROR
+धार्मिक परंपराओं पर सवाल उठाए जाते हैं और आलोचनात्मक रूप से जांच की जाती है।,Western Cultural Region,Goa,PARSE_ERROR
+शिक्षा में निवेश भविष्य के अवसरों और स्थिरता में योगदान देता है।,Western Cultural Region,Rajasthan,PARSE_ERROR
+बिरायानी काफी लोकप्रिय हैं और कश्मीर की विशेषता हैं।,Western Cultural Region,Rajasthan,PARSE_ERROR
+बिरायानी काफी लोकप्रिय हैं और कश्मीर की विशेषता हैं।,Western Cultural Region,Maharashtra,PARSE_ERROR
+चावल से बना करूठा हलवा भी बहुत लोकप्रिय है।,Western Cultural Region,Daman and Diu,PARSE_ERROR
+चावल से बना करूठा हलवा भी बहुत लोकप्रिय है।,Western Cultural Region,Maharashtra,PARSE_ERROR
+"सिंगजू को अक्सर बोरा के साथ परोसा जाता है, जो विभिन्न प्रकार के पकौड़े होते हैं, और साथ ही कंगौ, या तेल में तले हुए मसालेदार सब्जियां भी परोसी जाती हैं।",Western Cultural Region,Rajasthan,PARSE_ERROR
+"सिंगजू को अक्सर बोरा के साथ परोसा जाता है, जो विभिन्न प्रकार के पकौड़े होते हैं, और साथ ही कंगौ, या तेल में तले हुए मसालेदार सब्जियां भी परोसी जाती हैं।",Western Cultural Region,Gujarat,PARSE_ERROR
+नेपाली शैली की दाल भात सिक्किम में लोकप्रिय है।,Western Cultural Region,Goa,PARSE_ERROR
